@@ -4,6 +4,10 @@
 
 ## Contributor List
 
+1. Chester Chin
+2. [Paul](https://github.com/paulaacc)
+3. [KhorJinho](https://github.com/cutiePie96)
+
 
 ## Resource List with LINKS
 
@@ -42,7 +46,7 @@ Chapter 7 ---> https://github.com/ChesterChin92/CodePython/blob/master/Chapter%2
 ![Alt Text](https://media.giphy.com/media/awpqNsKuFtXI4/giphy.gif)
 
 
-## Mentor List
+## Mentor List 2018
 
 * ROGER KHO TAI LEONG 
 * TANG KAR HUEY
