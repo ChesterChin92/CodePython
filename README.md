@@ -113,3 +113,25 @@ Chapter 7 ---> https://github.com/ChesterChin92/CodePython/blob/master/Chapter%2
 * Saw Jun Yung
 * SITI RASHIMA ROMLI
 * Dayang Norlaila Hj Latip
+
+## Mentor List 2017
+
+* Deborah
+* Yamunaa
+* Visheentha
+* Teoh Chia Hau 
+* Teh Saik Way
+* Goh Guat Yong
+* Rachel
+* Paulchris
+* Ching May
+* Amin Hidaya
+* Wong Jun Hao
+* Shi Yin
+* Xiang Shen
+* Tau Jun
+* Rick
+* Calvin
+* Kumarendran
+* Maisarah Mohamed Pauzi
+* Gud Quan
